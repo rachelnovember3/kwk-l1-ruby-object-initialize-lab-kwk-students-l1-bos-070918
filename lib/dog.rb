@@ -6,8 +6,7 @@ class Dog
   end
 end
 
-fido = Dog.new("Fido")
-pug = Dog.new("Pug")
+fido = Dog.new("Fido","Pug")
 
 
 
